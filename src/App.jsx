@@ -1,5 +1,6 @@
 import AppClima from "./components/AppClima";
 import { ClimaProvider } from "./context/ClimaProvider";
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
 
 function App() {
   return (
